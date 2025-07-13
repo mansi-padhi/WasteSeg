@@ -1,4 +1,5 @@
-WasteSeg: Automated waste segregation using the Hugging Face Yan50 model
+                                                        WasteSeg: Automated waste segregation using the Hugging Face Yan50 model
+
 WasteSeg is a project focused on developing an automated waste segregation system using the Hugging Face Yan50 model for garbage classification. This system aims to categorize waste into different types, facilitating efficient waste management and promoting recycling practices. 
 
 Problem
