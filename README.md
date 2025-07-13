@@ -1,4 +1,4 @@
-                                                        WasteSeg: Automated waste segregation using the Hugging Face Yan50 model
+ WasteSeg: Automated waste segregation using the Hugging Face Yan50 model
 
 WasteSeg is a project focused on developing an automated waste segregation system using the Hugging Face Yan50 model for garbage classification. This system aims to categorize waste into different types, facilitating efficient waste management and promoting recycling practices. 
 
@@ -29,9 +29,6 @@ Use code with caution.
 Install dependencies:
 bash
 npm install 
-# or if you are using yarn
-yarn install
-Use code with caution.
 
 Start the frontend development server:
 bash
